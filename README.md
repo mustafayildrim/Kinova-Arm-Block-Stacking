@@ -18,13 +18,6 @@ This project involves programming a **Kinova robotic arm** to pick up a block po
 - **ROS (Robot Operating System)**
 
 
-
-## Installation
-
-```bash
-pip install kinova-ros scipy numpy
-```
-
 ## Project Tasks
 
 ### **Task 1: Initialize and Calibrate the Kinova Arm**
